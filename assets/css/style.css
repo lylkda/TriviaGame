@@ -1,0 +1,40 @@
+body{
+	background: url("../images/background.jpg") no-repeat center fixed;
+}
+.holder{
+	display: flex;
+	padding: 15px;
+}
+#head{
+	background-color: lavender;
+	opacity: 0.95;
+}
+h1, h2{
+	text-align: center;
+}
+
+.alert-secondary{
+	padding: 100px 50px;
+	margin: 150px 0;
+}
+
+h3{
+	margin-top: 15px;
+}
+
+input{
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+#Start{
+	padding: 10px 50px;
+	font-size: 16px;
+	line-height: 1.5;
+	border-radius: 2px;
+}
+
+button{
+	justify-content: center;
+	margin: auto;
+}
