@@ -39,7 +39,7 @@ $(document).ready(function() {
 		correct: 0,
 		incorrect: 0,
 		unanswered: 0,
-		count: 30,
+		count: 60,
 	}
 
 	//Displays the results after checking each question
